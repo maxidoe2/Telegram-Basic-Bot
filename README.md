@@ -1,0 +1,1 @@
+Es un bot muy básico que cree hace mucho y me decidi a subirlo aca. En si te guia y te pide datos y lo publica en una google spreadsheet. Para usarlo debes poner tus propias API, y el .json de las credenciales de google para poder enviar datos a un google spreadsheet en la nube.
